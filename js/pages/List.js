@@ -106,9 +106,6 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
@@ -123,6 +120,8 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                    <p>
+                        The completion must be executed with less than 5 inputs.
                 </div>
             </div>
         </main>
